@@ -1,2 +1,1 @@
-# spotify_player
-Costum Spotify Web Player
+# Costum Spotify Web Player
